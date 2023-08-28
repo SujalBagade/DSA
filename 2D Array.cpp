@@ -2,6 +2,7 @@
 using namespace std; 
 main( ) 
 {  
+	
       int  s[2][2];
       int  i, j;
       cout<<"\n2D Array Input:\n";
